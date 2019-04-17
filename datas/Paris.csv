@@ -1,0 +1,51 @@
+Restaurant Name,Restaurant Address,Restaurant City,Rating,Category,Cost,Review Count
+Reed - Restaurant,"['11 bis rue Amelie', '75007 Paris', 'France']",Paris,5.0,french,€€€,48
+Bar Italia Brasserie,"['22 rue Moncey', '75009 Paris', 'France']",Paris,5.0,italian,€€€,41
+L'Estrapade,"[""15 rue de l'Estrapade"", '75005 Paris', 'France']",Paris,5.0,french,€€€,42
+La Vache et le Cuisinier,"['18 rue des Trois Frères', '75018 Paris', 'France']",Paris,5.0,french,€€€,58
+Le Potager du Père Thierry,"['16 rue des Trois Frères', '75018 Paris', 'France']",Paris,4.5,french,€€,392
+Le Jardin d'en Face,"['29 rue des Trois Frères', '75018 Paris', 'France']",Paris,4.5,french,€€,82
+La Cordonnerie,"['20 rue Saint Roch', '75001 Paris', 'France']",Paris,4.5,french,€€€,74
+Le Temps des Cerises,"['31 rue de la Cerisaie', '75004 Paris', 'France']",Paris,4.5,bistros,€€,304
+The Hardware Société,"['10 rue Lamarck', '75018 Paris', 'France']",Paris,4.5,coffee,€€,134
+Les Papilles,"['30 rue Gay-Lussac', '75005 Paris', 'France']",Paris,4.5,wine_bars,€€€,230
+La Jacobine,"['59-61 rue Saint-André des Arts', '75006 Paris', 'France']",Paris,4.5,tea,€€€,247
+L'Alsacien,"['6 rue Saint-Bon', '75004 Paris', 'France']",Paris,4.5,beerbar,€€,61
+Matamata Coffee Bar,"[""58 rue d'Argout"", '75002 Paris', 'France']",Paris,4.5,coffee,€,75
+Sacrée Fleur,"['50 rue Clignancourt', '75018 Paris', 'France']",Paris,4.5,french,€€€,87
+L'As du Fallafel,"['34 rue des Rosiers', '75004 Paris', 'France']",Paris,4.5,kosher,€,1658
+Pizzeria Babalou,"['4 rue Lamarck', '75018 Paris', 'France']",Paris,4.5,italian,€€,155
+Crêperie le Crépuscule,"['18 rue Amélie', '75007 Paris', 'France']",Paris,4.5,creperies,€€,62
+Les Antiquaires,"['13 rue du Bac', '75007 Paris', 'France']",Paris,4.5,french,€€,242
+Miznon,"['22 rue des Ecouffes', '75004 Paris', 'France']",Paris,4.5,kosher,€€,145
+L'Ardoise Gourmande,"['12 rue de Belzunce', '75010 Paris', 'France']",Paris,4.5,french,€€,81
+Banh Mi,"['81 rue de Turbigo', '75003 Paris', 'France']",Paris,4.5,vietnamese,€,148
+La Cave Gourmande,"['96 rue des Martyrs', '75018 Paris', 'France']",Paris,4.5,french,€€,282
+Au Pied du Sacré Coeur,"['85 rue Lamarck', '75018 Paris', 'France']",Paris,4.5,french,€€,159
+Verjus,"['52 rue de Richelieu', '75001 Paris', 'France']",Paris,4.5,modern_european,€€€€,137
+Galette Café,"[""2 rue de l'Université"", '75007 Paris', 'France']",Paris,4.5,creperies,€€,98
+Chez le Libanais,"['35 rue Saint-André-des-Arts', '75006 Paris', 'France']",Paris,4.5,lebanese,€,164
+La Coïncidence,"['15 rue Mesnil', '75116 Paris', 'France']",Paris,4.5,french,€€,417
+Soul Kitchen,"['33 rue Lamarck', '75018 Paris', 'France']",Paris,4.5,coffee,€€,129
+Le Comptoir de la Gastronomie,"['34 rue Montmartre', '75001 Paris', 'France']",Paris,4.5,french,€€,872
+Le Volant Basque,"['13 rue Béatrix Dussane', '75015 Paris', 'France']",Paris,4.5,basque,€€,201
+Holybelly,"['5 rue Lucien Sampaix', '75010 Paris', 'France']",Paris,4.5,breakfast_brunch,€€,155
+Fraîche,"[""8 rue Vicq d'Azir"", '75010 Paris', 'France']",Paris,4.5,french,€€€,99
+Le Cinq,"['31 avenue George V', '75008 Paris', 'France']",Paris,4.5,french,€€€€,122
+Pizza Julia,"['43 rue de Charenton', '75012 Paris', 'France']",Paris,4.5,pizza,€,126
+Le Bistrot des Augustins,"['39 quai des Grands Augustins', '75006 Paris', 'France']",Paris,4.5,bistros,€€,322
+Chez Alain Miam Miam,"['26 rue Charlot', '75003 Paris', 'France']",Paris,4.5,creperies,€,132
+L'Avant Comptoir,"[""3 carrefour de l'Odéon"", '75006 Paris', 'France']",Paris,4.5,tapas,€€,576
+Baguett's Café,"['33 rue de Richelieu', '75001 Paris', 'France']",Paris,4.5,cafes,€€,161
+L'Epicure,"['112 rue du Faubourg Saint-Honoré', '75008 Paris', 'France']",Paris,4.5,french,€€€€,150
+Le Hide,"['10 Rue Gén Lanrezac', '75017 Paris', 'France']",Paris,4.5,french,€€€,193
+Sanukiya,"[""9 rue d'Argenteuil"", '75001 Paris', 'France']",Paris,4.5,japanese,€€,305
+La Droguerie du Marais,"['56 rue des Rosiers', '75004 Paris', 'France']",Paris,4.5,creperies,€,176
+Le Bistro du Périgord,"['71 rue Saint-Jacques', '75005 Paris', 'France']",Paris,4.5,bistros,€€€,332
+Le Petit Canard,"['19 rue Henri Monnier', '75009 Paris', 'France']",Paris,4.5,french,€€,163
+Chez Mademoiselle,"['16 rue Charlemagne', '75004 Paris', 'France']",Paris,4.5,french,€€€,88
+Crêperie Brocéliande,"['15 rue des Trois Frères', '75018 Paris', 'France']",Paris,4.5,creperies,€€,116
+Al Caratello,"['5 rue Audran', '75018 Paris', 'France']",Paris,4.5,italian,€€,160
+Le Bistrot des Campagnes,"['6 rue Léopold Robert', '75014 Paris', 'France']",Paris,4.5,bistros,€€,117
+Little Breizh,"['11 rue Grégoire de Tours', '75006 Paris', 'France']",Paris,4.5,creperies,€€,188
+Chez Gabrielle,"[""7 rue de l'Etoile"", '75017 Paris', 'France']",Paris,4.5,french,€€€,59

@@ -1,0 +1,51 @@
+Restaurant Name,Restaurant Address,Restaurant City,Rating,Category,Cost,Review Count
+Baretto Caffe,"['1262 Don Mills Road', 'Toronto, ON M3B 2W7', 'Canada']",Toronto,5.0,cafes,$,293
+Veghed,"['1199 Dundas Street W', 'Toronto, ON M6J 1X3', 'Canada']",Toronto,5.0,vegan,$$,60
+Momo Hut & Gardens,"['401 Danforth Avenue', 'Danforth', 'Toronto, ON M4K 1P1', 'Canada']",Toronto,5.0,himalayan,,41
+I'll Be Seeing You,"['747 Queen Street E', 'Toronto, ON M4M 1H3', 'Canada']",Toronto,5.0,cocktailbars,$$,39
+Ravi Soups,"['322 Adelaide Street W', 'Toronto, ON M5V 1R1', 'Canada']",Toronto,4.5,sandwiches,$$,343
+Sugo,"['1279 Bloor Street  W', 'Toronto, ON M6H 3Y2', 'Canada']",Toronto,4.5,italian,$$,96
+Riddle Room,"['579 Yonge Street', '2nd Floor', 'Toronto, ON M4Y 1Z2', 'Canada']",Toronto,4.5,cafes,$,161
+Beach Hill Smokehouse,"['172 Main Street S', 'Toronto, ON M4E 2W1', 'Canada']",Toronto,4.5,bbq,$$,73
+Takht-e Tavoos,"['1120 College Street', 'Toronto, ON M6H 1B5', 'Canada']",Toronto,4.5,persian,$$,120
+Rasa,"['196 Robert Street', 'Toronto, ON M5S 2K8', 'Canada']",Toronto,4.5,newcanadian,$$,226
+Saigon Lotus,"['6 St Andrew Street', 'Toronto, ON M5T 1K6', 'Canada']",Toronto,4.5,vietnamese,$$,151
+Veggie D'Light,"['160 Baldwin Street', 'Unit 3', 'Toronto, ON M5T 3K7', 'Canada']",Toronto,4.5,caribbean,$,62
+Salus Fresh Foods,"['25 Carlton Street', 'Unit D', 'Toronto, ON M5B 1L4', 'Canada']",Toronto,4.5,salad,$,55
+Black Camel,"['4 Crescent Road', 'Toronto, ON M4W 1S9', 'Canada']",Toronto,4.5,sandwiches,$,324
+Le Baratin,"['1600 Dundas Street. W', 'Toronto, ON M6K 1T8', 'Canada']",Toronto,4.5,french,$$,85
+Yasu,"['81 Harbord Street', 'Toronto, ON M5S', 'Canada']",Toronto,4.5,japanese,$$$$,328
+Loga's Corner,"['216C Close Avenue', 'Toronto, ON M6K 2V5', 'Canada']",Toronto,4.5,himalayan,$,99
+The Olde Yorke,"['96 Laird Drive', 'East York, ON M4G 3V3', 'Canada']",East York,4.5,seafood,$$,231
+Pow Wow Cafe,"['213 Augusta Avenue', 'Toronto, ON M5T 2L4', 'Canada']",Toronto,4.5,newcanadian,$$,102
+COO Café Bread or Rice,"['1049 Bloor Street W', 'Toronto, ON M6H 1M4', 'Canada']",Toronto,4.5,japanese,$$,68
+Rustle & Still Café,"['605 Bloor Street W', 'Toronto, ON M6G 1K6', 'Canada']",Toronto,4.5,coffee,$,79
+Nuit Social,"['1168 Queen Street W', 'Toronto, ON M6J 1J5', 'Canada']",Toronto,4.5,cocktailbars,$$,194
+George,"['111 Queen Street E', 'Toronto, ON M5C 1S2', 'Canada']",Toronto,4.5,newcanadian,$$$$,246
+Katsuya,"['66 Gerrard Street E', 'Unit 100', 'Toronto, ON M5B 2M2', 'Canada']",Toronto,4.5,japanese,$$,315
+Crepe TO,"['52 Church Street', 'Toronto, ON M5C 3C8', 'Canada']",Toronto,4.5,creperies,$$,73
+Tibet Kitchen,"['1544 Queen Street W', 'Toronto, ON M6R 1A6', 'Canada']",Toronto,4.5,himalayan,$$,234
+Her Father's Cider Bar & Kitchen,"['119 Harbord Street', 'Toronto, ON M5S 1G7', 'Canada']",Toronto,4.5,gastropubs,$$,132
+Alo Restaurant,"['163 Spadina Avenue', '3rd Floor', 'Toronto, ON M5V 2A5', 'Canada']",Toronto,4.5,bars,$$$$,250
+Blaze Fast-Fire'd Pizza,"['10 Dundas Street East', '#124', 'Toronto, ON M5B 2G9', 'Canada']",Toronto,4.5,pizza,$$,468
+Jacobs & Co. Steakhouse,"['12 Brant Street', 'Toronto, ON M5V 1K4', 'Canada']",Toronto,4.5,steak,$$$$,508
+El Nahual,"['1993 Keele Street', 'York, ON M6M 3Y3', 'Canada']",York,4.5,mexican,$,99
+Seven Lives Tacos Y Mariscos,"['69 Kensington Avenue', 'Toronto, ON M5T 2K2', 'Canada']",Toronto,4.5,mexican,$,1215
+Richmond Station,"['1 Richmond Street W', 'Toronto, ON M5H 3W4', 'Canada']",Toronto,4.5,newcanadian,$$$,676
+Pai Northern Thai Kitchen,"['18 Duncan Street', 'Toronto, ON M5H 3G8', 'Canada']",Toronto,4.5,thai,$$,2362
+Mystic Muffin,"['113 Jarvis Street', 'Toronto, ON M5C 2H4', 'Canada']",Toronto,4.5,sandwiches,$,249
+Byblos,"['11 Duncan Street', 'Toronto, ON M5V 3M2', 'Canada']",Toronto,4.5,mediterranean,$$$,740
+Scaramouche Restaurant Pasta Bar & Grill,"['1 Benvenuto Place', 'Toronto, ON M4V 2L1', 'Canada']",Toronto,4.5,french,$$$$,266
+Antler Kitchen & Bar,"['1454 Dundas Street West', 'Toronto, ON M6J 1Y6', 'Canada']",Toronto,4.5,newcanadian,$$$,220
+Adamson Barbecue,"['176 Wicksteed Avenue', 'Toronto, ON M4G 2B6', 'Canada']",Toronto,4.5,bbq,$$,232
+Agio,"['1351 St Clair Avenue W', 'Toronto, ON M6E 1C5', 'Canada']",Toronto,4.5,italian,$$,161
+Ramen Isshin,"['421 College Street', 'Toronto, ON M5T 1T1', 'Canada']",Toronto,4.5,ramen,$$,544
+A-Game Cafe,"['797 Dundas Street W', 'Toronto, ON M6J 1V2', 'Canada']",Toronto,4.5,cafes,$,89
+Descendant Detroit Style Pizza,"['1168 Queen Street E', 'Toronto, ON M4M 1L5', 'Canada']",Toronto,4.5,pizza,$$,274
+Fresco's Fish & Chips,"['201 Augusta Avenue', 'Toronto, ON M5T 2L4', 'Canada']",Toronto,4.5,fishnchips,$$,327
+Café Polonez,"['195 Roncesvalles Avenue', 'Toronto, ON M6R 2L5', 'Canada']",Toronto,4.5,polish,$$,231
+Schnitzel Queen,"['211 Queen Street E', 'Toronto, ON M5A 1S5', 'Canada']",Toronto,4.5,german,$$,87
+Hodo Kwaja,"['656 Bloor Street W', 'Toronto, ON M6G 1K9', 'Canada']",Toronto,4.5,bakeries,$,197
+Banh Mi Boys,"['392 Queen Street W', 'Toronto, ON M5V 2A9', 'Canada']",Toronto,4.0,sandwiches,$,1070
+Miku,"['105-10 Bay Street', 'Toronto, ON M5J 2R8', 'Canada']",Toronto,4.0,japanese,$$$,673
+KINKA IZAKAYA ORIGINAL,"['398 Church St', 'Toronto, ON M5B 2A2', 'Canada']",Toronto,4.0,japanese,$$,1492
