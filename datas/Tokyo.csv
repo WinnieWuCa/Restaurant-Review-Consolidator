@@ -1,0 +1,51 @@
+name,phone_number,postal_code,address,city,rating,category,cost,review_Count
+Ibuki,+81353233552,160-0023,"['西新宿1-16-8', '河野ビル別館2F', 'Shinjuku, 東京都 〒160-0023', 'Japan']",Shinjuku,5.0,sukiyaki,,41
+Ichiran Shibuya Spainzaka,+81334640787,150-0042,"['宇田川町13-7', 'コヤスワンB1F', 'Shibuya, 東京都 〒150-0042', 'Japan']",Shibuya,5.0,ramen,￥,51
+Gomei,+81368917711,104-0061,"['銀座6-4-18-B1', 'Chūō, 東京都 〒104-0061', 'Japan']",Chūō,5.0,kaiseki,￥￥￥￥,25
+Sushisho Masa,+81334999178,106-0031,"['西麻布4丁目1-15', 'セブン西麻布', 'Minato, 東京都 〒106-0031', 'Japan']",Minato,5.0,sushi,￥￥￥￥,49
+Uogashi Nihon Ichi Shinjuku Nishiguchi,+81333491739,160-0023,"['西新宿1-12', '河西ビル1F', 'Shinjuku, 東京都 〒160-0023', 'Japan']",Shinjuku,5.0,sushi,￥,90
+Hakushu,+81334610546,150-0031,"['桜丘町17-10', 'MCD Building 1F', 'Shibuya, 東京都 〒150-0031', 'Japan']",Shibuya,5.0,steak,￥￥￥,85
+Sapporo DOMINICA Ginza,+81332311347,104-0031,"['京橋3-4-1', 'ＴＭ銀座ビル 2F', 'Chūō, 東京都 〒104-0031', 'Japan']",Chūō,5.0,japacurry,￥,56
+Manten Sushi,+81362699100,100-0005,"['丸の内2-6-1', '丸の内ブリックスクエアB1F', 'Chiyoda, 東京都 〒100-0005', 'Japan']",Chiyoda,5.0,sushi,￥￥￥,34
+Gyukatsu MOTOMURA Tokyo Eki Yaesuguchi,+81332310337,103-0028,"['八重洲1-6-14', 'Chūō, 東京都 〒103-0028', 'Japan']",Chūō,5.0,japanese,￥￥,80
+Tokyo Shiba Tofuya Ukai,+81334361028,105-0011,"['芝公園4-4-13', 'Minato, 東京都 〒105-0011', 'Japan']",Minato,5.0,kaiseki,￥￥￥,36
+AKIBA FUKUROU,+818034003511,101-0022,"['神田練塀町67', 'Chiyoda, 東京都 〒101-0022', 'Japan']",Chiyoda,5.0,themedcafes,￥,66
+Gyukatsu Motomura Shinjuku,+81333540171,160-0022,"['新宿3-32-2', 'モトビル地下1F', 'Shinjuku, 東京都 〒160-0022', 'Japan']",Shinjuku,5.0,tempura,￥￥,72
+Umai Sushi Kan Akasaka,+81335606711,107-0052,"['赤坂3丁目13-10', 'Minato, 東京都 〒107-0052', 'Japan']",Minato,5.0,sushi,￥￥,28
+Abura Soba Tōkyō Aburagumi Sōhonten ,+81355716011,107-0052,"['赤坂3-10-20', 'Minato, 東京都 〒107-0052', 'Japan']",Minato,5.0,ramen,￥,55
+511,+81366850511,135-0063,"['赤坂4-3-28', 'ディアプラザ赤坂B1', 'Minato, 東京都 〒135-0063', 'Japan']",Minato,4.5,steak,￥￥￥￥,87
+Umegaoka Sushinomidori Sōhonten Shibuya,+81354580002,150-0043,"['道玄坂1-12-3', '4Ｆ', 'Shibuya, 東京都 〒150-0043', 'Japan']",Shibuya,4.5,sushi,￥￥,123
+Afuri Ebisu,+81357950750,150-0013,"['恵比寿1-1-7', 'Shibuya, 東京都 〒150-0013', 'Japan']",Shibuya,4.5,ramen,￥,129
+Rokurinsha,+81332860166,100-0005,"['丸の内1-9-1', 'B1F', 'Chiyoda, 東京都 〒100-0005', 'Japan']",Chiyoda,4.5,ramen,￥,219
+Fukki,+81364029011,105-0012,"['芝大門2-1-1', 'Minato, 東京都 〒105-0012', 'Japan']",Minato,4.5,ramen,￥,43
+Ichiran Shinjuku Chuo Higashiguchi,+81332255518,160-0022,"['新宿3-34-11', 'ピースビルB1F', 'Shinjuku, 東京都 〒160-0022', 'Japan']",Shinjuku,4.5,ramen,￥,406
+AIN SOPH. Ripple,+81363803205,160-0021,"['歌舞伎町2-46-8', '日章ビル 1F', 'Shinjuku, 東京都 〒160-0021', 'Japan']",Shinjuku,4.5,vegan,￥,46
+Tonki Meguro,+81334919928,153-0064,"['下目黒1-1-2', 'Meguro, 東京都 〒153-0064', 'Japan']",Meguro,4.5,tonkatsu,￥,76
+Marugo,+81332556595,101-0021,"['外神田1丁目8-14', 'Chiyoda, 東京都 〒101-0021', 'Japan']",Chiyoda,4.5,tonkatsu,￥￥,50
+Imakatsu Roppongi Honten,+81334081029,106-0032,"['六本木4-12-5', 'フェニキアルクソス ス 1F', 'Minato, 東京都 〒106-0032', 'Japan']",Minato,4.5,tonkatsu,￥￥,41
+SUSHIZANMAI Honten,+81335411117,104-0045,"['築地4-11-9', 'Chūō, 東京都 〒104-0045', 'Japan']",Chūō,4.5,sushi,￥￥,121
+Reissue,+81357853144,150-0001,"['神宮前3-25-7', '丹治ビル 2F', 'Shibuya, 東京都 〒150-0001', 'Japan']",Shibuya,4.5,coffee,￥,92
+KYUSHU JANGARA Omotesando 2F,+81334045572,150-0001,"['神宮前1-13-21', 'Shibuya, 東京都 〒150-0001', 'Japan']",Shibuya,4.5,ramen,￥,76
+Nabezo Shinjuku 3 Chome,+81353634629,160-0022,"['新宿3丁目30-11', '新宿高野第2ビル8F', 'Shinjuku, 東京都 〒160-0022', 'Japan']",Shinjuku,4.5,sukiyaki,￥￥,86
+Ichiran Ikebukuro,+81339890871,170-0013,"['東池袋1丁目39-11', 'サニーサイドビル102', 'Toshima, 東京都 〒170-0013', 'Japan']",Toshima,4.5,ramen,￥,44
+Tonkatsu Maisen Aoyama Honten,+81120428485,150-0001,"['神宮前4-8-5', 'Shibuya, 東京都 〒150-0001', 'Japan']",Shibuya,4.5,tonkatsu,￥￥,161
+Narisawa,+81357850799,107-0062,"['南青山2-6-15', 'Minato, 東京都 〒107-0062', 'Japan']",Minato,4.5,asianfusion,￥￥￥￥,52
+Uogashi Nihonichi Tachigui Sushi SHIBUYA CENTER GAI,+81357285451,150-0042,"['宇田川町25-6', 'Shibuya, 東京都 〒150-0042', 'Japan']",Shibuya,4.5,sushi,￥￥,54
+Ichiran Shibuya,+81334633667,150-0041,"['神南1-22-7', '岩本ビルB1F', 'Shibuya, 東京都 〒150-0041', 'Japan']",Shibuya,4.5,ramen,￥,529
+Gyūkatsu Motomura Shibuya,+81337973735,979-1308,"['渋谷3-18-10', '大野ビル2号館 B1F', 'Shibuya, 東京都 〒979-1308', 'Japan']",Shibuya,4.5,tempura,￥,101
+Ippudo Ginza,+81335471010,104-0061,"['銀座4-10-3', 'セントラルビル 1F', 'Chūō, 東京都 〒104-0061', 'Japan']",Chūō,4.5,ramen,￥,179
+T's Tantan Tokyo Station Keiyo Street,+81332188040,100-0005,"['丸の内1-9-1', '改札内 京葉ストリート', 'Chiyoda, 東京都 〒100-0005', 'Japan']",Chiyoda,4.5,vegan,￥,148
+Kyubey Ginza,+81335716523,104-0061,"['銀座8-7-6', '銀座本店', 'Chūō, 東京都 〒104-0061', 'Japan']",Chūō,4.5,sushi,￥￥￥￥,106
+Karashibi Miso Ramen Kikanbo,+81332562960,101-0044,"['鍛冶町2-10-10', 'Chiyoda, 東京都 〒101-0044', 'Japan']",Chiyoda,4.5,ramen,￥,84
+Udon Shin,+81362767816,151-0053,"['代々木2-20-16', '相馬ビル 1F', 'Shibuya, 東京都 〒151-0053', 'Japan']",Shibuya,4.5,udon,￥,145
+Fuunji,+81364138480,151-0053,"['代々木2-14-3', '北斗第一ビルB1F', 'Shibuya, 東京都 〒151-0053', 'Japan']",Shibuya,4.5,ramen,￥,198
+Fūryū Okonomiyaki Sometarō,+81338449502,111-0035,"['西浅草2-2-2', 'Taitō, 東京都 〒111-0035', 'Japan']",Taitō,4.5,okonomiyaki,￥,86
+Jirōmaru Shinjuku Honten,+81363803292,160-0021,"['歌舞伎町1-26-3', 'かぶきビル 1F', 'Shinjuku, 東京都 〒160-0021', 'Japan']",Shinjuku,4.5,yakiniku,￥￥,182
+Japanese Soba Noodles Tsuta,+81339431007,170-0002,"['巣鴨1-14-1', 'Plateau-Saka 1F', 'Toshima, 東京都 〒170-0002', 'Japan']",Toshima,4.5,ramen,￥,168
+Sukiyabashi Jiro Roppongi Hills,+81354136626,106-0032,"['六本木6-10-1', '六本木ヒルズ けやき坂通り 3F', 'Minato, 東京都 〒106-0032', 'Japan']",Minato,4.5,sushi,￥￥￥￥,86
+Tatsunoya,+81363040899,160-0023,"['西新宿7-4-5', '富士野ビル 1F', 'Shinjuku, 東京都 〒160-0023', 'Japan']",Shinjuku,4.5,ramen,￥,60
+Turret COFFEE,+818033448819,104-0045,"['築地2-12-6', 'SK東銀座ビル 1F', 'Chūō, 東京都 〒104-0045', 'Japan']",Chūō,4.5,cafes,￥,86
+Mutekiya,+81339827656,171-0022,"['南池袋1-17-1', '崎本ビル1F', 'Toshima, 東京都 〒171-0022', 'Japan']",Toshima,4.5,ramen,￥,87
+Kaiten Zushi Katsu Seibu Shibuya,+81357284282,150-0042,"['宇田川町21-1', '8F', 'Shibuya, 東京都 〒150-0042', 'Japan']",Shibuya,4.5,conveyorsushi,￥￥,90
+NAKIRYU,+81363041811,170-0005,"['南大塚2-34-4', 'SKY南大塚 1F', 'Toshima, 東京都 〒170-0005', 'Japan']",Toshima,4.5,ramen,￥,82
+MENYA MUSASHI SHINJUKU Honten,+81333634634,160-0023,"['西新宿7-2-6', 'K-1ビル1F', 'Shinjuku, 東京都 〒160-0023', 'Japan']",Shinjuku,4.5,ramen,￥,92

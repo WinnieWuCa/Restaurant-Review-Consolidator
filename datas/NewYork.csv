@@ -1,0 +1,51 @@
+name,phone_number,postal_code,address,city,rating,category,cost,review_Count
+Otis,+16468860601,11206,"['18 Harrison Pl', 'Brooklyn, NY 11206']",Brooklyn,5.0,newamerican,$$,172
+Pita Palace,+17183830550,11211,"['413 Graham Ave', 'Brooklyn, NY 11211']",Brooklyn,5.0,mideastern,$,210
+Kafe Louverture,+13473053176,11216,"['392 Halsey St', 'Brooklyn, NY 11216']",Brooklyn,5.0,coffee,$,97
+4 Charles Prime Rib,+12125615992,10014,"['4 Charles St', 'New York, NY 10014']",New York,5.0,steak,$$$,194
+Panzerotti Bites,+17184889300,11231,"['235 Smith St', 'Brooklyn, NY 11231']",Brooklyn,5.0,italian,$$,80
+Dian Kitchen,+16465909898,10009,"['435 E 9th St', 'New York, NY 10009']",New York,5.0,chinese,$$,132
+191 Knickerbocker,+19293053625,11237,"['191 Knickerbocker Ave', 'Brooklyn, NY 11237']",Brooklyn,5.0,breakfast_brunch,$$,82
+Three Seat Espresso,+19173882769,10009,"['137 Avenue A', 'New York, NY 10009']",New York,5.0,coffee,$$,178
+Sushi Lin,+13476276027,11217,"['335 Flatbush Ave', 'Brooklyn, NY 11217']",Brooklyn,5.0,sushi,$$$,206
+The Alcove,+13478134159,11104,"['41-11 49th St', 'Sunnyside, NY 11104']",Sunnyside,5.0,gastropubs,$$,677
+Lella Alimentari,+17185992625,11211,"['325 Manhattan Ave', 'Brooklyn, NY 11211']",Brooklyn,5.0,coffee,$,160
+Second Street Bakery,+12014201793,07302,"['402 2nd St', 'Jersey City, NJ 07302']",Jersey City,5.0,bakeries,$,184
+Lillo Cucina Italiana,+13477630899,11201,"['331 Henry St', 'Brooklyn, NY 11201']",Brooklyn,5.0,cafes,$,75
+Frenchy's Food Truck,+16464682861,11238,"['341 Eastern Pkwy', 'Brooklyn, NY 11238']",Brooklyn,5.0,coffee,$,60
+Tony's Beechhurst Deli,+17187678222,11357,"['1118 154th St', 'Whitestone, NY 11357']",Whitestone,5.0,delis,$$,153
+Tres Leches Cafe,+16465590176,10029,"['356 E 112th St', 'New York, NY 10029']",New York,5.0,bakeries,$,94
+Samurai Sushi,+12018961760,07073,"['254 Park Ave', 'East Rutherford, NJ 07073']",East Rutherford,5.0,japanese,$$,148
+Miscelanea NY,+12122530277,10003,"['63 E 4th St', 'New York, NY 10003']",New York,5.0,coffee,$$,339
+Non Solo Piada,+12122160616,10018,"['302 W 37th St', 'New York, NY 10018']",New York,5.0,italian,$$,275
+Taste of Heaven,+17185763146,11211,"['251 Jackson St', 'Brooklyn, NY 11211']",Brooklyn,5.0,soulfood,$$,100
+Korai Kitchen,+12017216566,07306,"['576 Summit Ave', 'Jersey City, NJ 07306']",Jersey City,5.0,bangladeshi,$$,174
+Andrea Salumeria,+12016531666,07307,"['247 Central Ave', 'Apt 3', 'Jersey City, NJ 07307']",Jersey City,5.0,delis,$,232
+L'industrie Pizzeria,+17185990002,11211,"['254 S 2nd St', 'Brooklyn, NY 11211']",Brooklyn,5.0,pizza,$,407
+Joe's Italian Deli,+17183677979,10458,"['685 E 187th St', 'Bronx, NY 10458']",Bronx,5.0,delis,$$,98
+Royal Grill Halal Food,+13477240504,10036,"['44th St And 6th Ave', 'New York, NY 10036']",New York,5.0,halal,$,252
+Griot Cafe,+12014209444,07307,"['434 Central Ave', 'Jersey City, NJ 07307']",Jersey City,5.0,coffee,$$,94
+Hold Fast Kitchen and Spirits,+19172616691,10036,"['364 W46th St', 'New York, NY 10036']",New York,5.0,cocktailbars,$$,157
+Green Juice Cafe,+16469187730,10033,"['4316 Broadway', 'New York, NY 10033']",New York,5.0,sandwiches,$,165
+Joey Bats Café,+12129511189,10002,"['129 Allen St', 'New York, NY 10002']",New York,5.0,desserts,$,146
+Cafe Talya,+12015355333,07002,"['218 Ave B', 'Bayonne, NJ 07002']",Bayonne,5.0,cafes,$,222
+Koroni Souvlaki and Grill,+17184898820,11102,"['29-37 Newtown Ave', 'Astoria, NY 11102']",Astoria,5.0,mediterranean,$$,206
+Loi Estiatorio,+12127130015,10019,"['132 W 58th St', 'New York, NY 10019']",New York,4.5,greek,$$$,318
+Sorriso Italian Pork Store,+17187284392,11103,"['4416 30th Ave', 'Astoria, NY 11103']",Astoria,4.5,meats,$,313
+Mysttik Masaala,+19173063128,10022,"['399 Park Ave', 'Corner of 54th street', 'New York, NY 10022']",New York,4.5,foodtrucks,$,350
+Top Thai Greenwich,+16467264418,10012,"['235 Sullivan St', 'New York, NY 10012']",New York,4.5,thai,$$,1069
+Frisson Espresso,+16468503928,10036,"['326 W 47th St', 'New York, NY 10036']",New York,4.5,coffee,$,643
+Casa d'Paco,+18623079466,07105,"['73 Warwick St', 'Newark, NJ 07105']",Newark,4.5,spanish,$$,534
+Aux Merveilleux De Fred,+19174751992,10014,"['37 8th Ave', 'New York, NY 10014']",New York,4.5,desserts,$$,309
+Laojie Hotpot,+17184310026,11220,"['811 53rd St', 'Brooklyn, NY 11220']",Brooklyn,4.5,hotpot,$$,436
+Sami's Kabab House,+19178327165,11106,"['35-57 Crescent St', 'Astoria, NY 11106']",Astoria,4.5,afghani,$$,298
+Jajaja,+16468835453,10002,"['162 E Broadway', 'New York, NY 10002']",New York,4.5,mexican,$$,640
+Mughlai Grill,+12125332828,10002,"['6 Clinton St', 'New York, NY 10002']",New York,4.5,indpak,$$,277
+Fiore Deli of Hoboken,+12016591655,07030,"['414 Adams St', 'Hoboken, NJ 07030']",Hoboken,4.5,delis,$,485
+Los Mariscos,+12129204986,10011,"['409 W 15th St', 'New York, NY 10011']",New York,4.5,seafood,$,472
+Sushi by Bou Times Square,,10036,"['132 W 47th St', 'New York, NY 10036']",New York,4.5,sushi,$$$,345
+Baba's Pierogies,+17182220777,11215,"['295 3rd Ave', 'Brooklyn, NY 11215']",Brooklyn,4.5,modern_european,$$,350
+"Sal, Kris, & Charlie's Deli",+17182789240,11105,"['33-12 23rd Ave', 'Astoria, NY 11105']",Astoria,4.5,delis,$,976
+Los Tacos No.1,+12122560343,10011,"['75 9th Ave', 'New York, NY 10011']",New York,4.5,tacos,$,2634
+Los Tacos No.1,+12125744696,10036,"['229 W 43rd St', 'New York, NY 10036']",New York,4.5,tacos,$,1098
+Ruffian,,10009,"['125 E 7th St', 'New York, NY 10009']",New York,4.5,wine_bars,$$,186

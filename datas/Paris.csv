@@ -1,0 +1,51 @@
+name,phone_number,postal_code,address,city,rating,category,cost,review_Count
+Reed - Restaurant,+33145558840,75007,"['11 bis rue Amelie', '75007 Paris', 'France']",Paris,5.0,french,€€€,48
+Bar Italia Brasserie,+33183972585,75009,"['22 rue Moncey', '75009 Paris', 'France']",Paris,5.0,italian,€€€,41
+L'Estrapade,+33143257258,75005,"[""15 rue de l'Estrapade"", '75005 Paris', 'France']",Paris,5.0,french,€€€,42
+La Vache et le Cuisinier,+33142622215,75018,"['18 rue des Trois Frères', '75018 Paris', 'France']",Paris,5.0,french,€€€,58
+Le Potager du Père Thierry,+33153282620,75018,"['16 rue des Trois Frères', '75018 Paris', 'France']",Paris,4.5,french,€€,392
+Le Jardin d'en Face,+33153280075,75018,"['29 rue des Trois Frères', '75018 Paris', 'France']",Paris,4.5,french,€€,82
+La Cordonnerie,+33142601742,75001,"['20 rue Saint Roch', '75001 Paris', 'France']",Paris,4.5,french,€€€,74
+Le Temps des Cerises,+33142720863,75004,"['31 rue de la Cerisaie', '75004 Paris', 'France']",Paris,4.5,bistros,€€,304
+The Hardware Société,+33142516903,75018,"['10 rue Lamarck', '75018 Paris', 'France']",Paris,4.5,coffee,€€,134
+Les Papilles,+33143252079,75005,"['30 rue Gay-Lussac', '75005 Paris', 'France']",Paris,4.5,wine_bars,€€€,230
+La Jacobine,+33146341595,75006,"['59-61 rue Saint-André des Arts', '75006 Paris', 'France']",Paris,4.5,tea,€€€,247
+L'Alsacien,+33142776422,75004,"['6 rue Saint-Bon', '75004 Paris', 'France']",Paris,4.5,beerbar,€€,61
+Matamata Coffee Bar,+33171394458,75002,"[""58 rue d'Argout"", '75002 Paris', 'France']",Paris,4.5,coffee,€,75
+Sacrée Fleur,+33142516618,75018,"['50 rue Clignancourt', '75018 Paris', 'France']",Paris,4.5,french,€€€,87
+L'As du Fallafel,+33148876360,75004,"['34 rue des Rosiers', '75004 Paris', 'France']",Paris,4.5,kosher,€,1658
+Pizzeria Babalou,+33142513732,75018,"['4 rue Lamarck', '75018 Paris', 'France']",Paris,4.5,italian,€€,155
+Crêperie le Crépuscule,+33180061432,75007,"['18 rue Amélie', '75007 Paris', 'France']",Paris,4.5,creperies,€€,62
+Les Antiquaires,+33142610836,75007,"['13 rue du Bac', '75007 Paris', 'France']",Paris,4.5,french,€€,242
+Miznon,+33142748358,75004,"['22 rue des Ecouffes', '75004 Paris', 'France']",Paris,4.5,kosher,€€,145
+L'Ardoise Gourmande,+33148784003,75010,"['12 rue de Belzunce', '75010 Paris', 'France']",Paris,4.5,french,€€,81
+Banh Mi,+33148049890,75003,"['81 rue de Turbigo', '75003 Paris', 'France']",Paris,4.5,vietnamese,€,148
+La Cave Gourmande,+33146061034,75018,"['96 rue des Martyrs', '75018 Paris', 'France']",Paris,4.5,french,€€,282
+Au Pied du Sacré Coeur,+33146061526,75018,"['85 rue Lamarck', '75018 Paris', 'France']",Paris,4.5,french,€€,159
+Verjus,+33142975440,75001,"['52 rue de Richelieu', '75001 Paris', 'France']",Paris,4.5,modern_european,€€€€,137
+Galette Café,+33142602204,75007,"[""2 rue de l'Université"", '75007 Paris', 'France']",Paris,4.5,creperies,€€,98
+Chez le Libanais,+33140460739,75006,"['35 rue Saint-André-des-Arts', '75006 Paris', 'France']",Paris,4.5,lebanese,€,164
+La Coïncidence,+33147559644,75116,"['15 rue Mesnil', '75116 Paris', 'France']",Paris,4.5,french,€€,417
+Soul Kitchen,+33171379995,75018,"['33 rue Lamarck', '75018 Paris', 'France']",Paris,4.5,coffee,€€,129
+Le Comptoir de la Gastronomie,+33142333132,75001,"['34 rue Montmartre', '75001 Paris', 'France']",Paris,4.5,french,€€,872
+Le Volant Basque,+33145752767,75015,"['13 rue Béatrix Dussane', '75015 Paris', 'France']",Paris,4.5,basque,€€,201
+Holybelly,+33182280080,75010,"['5 rue Lucien Sampaix', '75010 Paris', 'France']",Paris,4.5,breakfast_brunch,€€,155
+Fraîche,+33140375423,75010,"[""8 rue Vicq d'Azir"", '75010 Paris', 'France']",Paris,4.5,french,€€€,99
+Le Cinq,+33149527154,75008,"['31 avenue George V', '75008 Paris', 'France']",Paris,4.5,french,€€€€,122
+Pizza Julia,+33177196875,75012,"['43 rue de Charenton', '75012 Paris', 'France']",Paris,4.5,pizza,€,126
+Le Bistrot des Augustins,+33143540441,75006,"['39 quai des Grands Augustins', '75006 Paris', 'France']",Paris,4.5,bistros,€€,322
+Chez Alain Miam Miam,+33689865963,75003,"['26 rue Charlot', '75003 Paris', 'France']",Paris,4.5,creperies,€,132
+L'Avant Comptoir,+33142384755,75006,"[""3 carrefour de l'Odéon"", '75006 Paris', 'France']",Paris,4.5,tapas,€€,576
+Baguett's Café,+33954830486,75001,"['33 rue de Richelieu', '75001 Paris', 'France']",Paris,4.5,cafes,€€,161
+L'Epicure,+33153434340,75008,"['112 rue du Faubourg Saint-Honoré', '75008 Paris', 'France']",Paris,4.5,french,€€€€,150
+Le Hide,+33145741581,75017,"['10 Rue Gén Lanrezac', '75017 Paris', 'France']",Paris,4.5,french,€€€,193
+Sanukiya,+33142605261,75001,"[""9 rue d'Argenteuil"", '75001 Paris', 'France']",Paris,4.5,japanese,€€,305
+La Droguerie du Marais,,75004,"['56 rue des Rosiers', '75004 Paris', 'France']",Paris,4.5,creperies,€,176
+Le Bistro du Périgord,+33143296749,75005,"['71 rue Saint-Jacques', '75005 Paris', 'France']",Paris,4.5,bistros,€€€,332
+Le Petit Canard,+33149700795,75009,"['19 rue Henri Monnier', '75009 Paris', 'France']",Paris,4.5,french,€€,163
+Chez Mademoiselle,+33142721416,75004,"['16 rue Charlemagne', '75004 Paris', 'France']",Paris,4.5,french,€€€,88
+Crêperie Brocéliande,+33142233134,75018,"['15 rue des Trois Frères', '75018 Paris', 'France']",Paris,4.5,creperies,€€,116
+Al Caratello,+33142622423,75018,"['5 rue Audran', '75018 Paris', 'France']",Paris,4.5,italian,€€,160
+Le Bistrot des Campagnes,+33140479127,75014,"['6 rue Léopold Robert', '75014 Paris', 'France']",Paris,4.5,bistros,€€,117
+Little Breizh,+33143546074,75006,"['11 rue Grégoire de Tours', '75006 Paris', 'France']",Paris,4.5,creperies,€€,188
+Chez Gabrielle,+33143802301,75017,"[""7 rue de l'Etoile"", '75017 Paris', 'France']",Paris,4.5,french,€€€,59
