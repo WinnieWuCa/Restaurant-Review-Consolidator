@@ -1,41 +1,41 @@
-,name,rating,address,price_1,price_2
-3,Sofitel New York,4.4,"45 West 44th Street, New York",3.0,3.0
-5,Loews Regency New York,4.4,"540 Park Avenue, New York",,
-6,The Lowell Hotel,4.6,"28 East 63rd Street, at Madison Ave, New York",3.0,3.0
-7,The Mark Hotel,4.5,"25 East 77th Street, New York",,
-9,Shake Shack,4.3,"366 Columbus Avenue, New York",2.0,
-10,ABC Kitchen,4.4,"35 East 18th Street, New York",3.0,3.0
-12,Maialino,4.4,"2 Lexington Avenue, New York",3.0,3.0
-13,Inn At Great Neck,4.2,"30 Cuttermill Road, Great Neck",,
-14,Extra Virgin,4.2,"259 West 4th Street, New York",2.0,2.0
-16,The Mermaid Inn,4.3,"96 2nd Avenue, New York",2.0,
-17,Connolly's Pub & Restaurant,4.3,"121 West 45th Street, New York",2.0,2.0
-21,Lugo Cucina,4.2,"1 Pennsylvania Plaza, New York",2.0,2.0
-22,Lucky Strike Manhattan,4.2,"624-660 West 42nd Street, New York",3.0,3.0
-23,Miss Lily's,4.2,"132 West Houston Street, New York",2.0,2.0
-24,48 Lounge,4.3,"1221 AVENUE OF THE AMERICAS, West 48th Street, New York",3.0,3.0
-25,Casa Mezcal,4.3,"86 Orchard Street, New York",2.0,2.0
-27,Brooklyn Diner USA,4.1,"212 West 57th Street, New York",3.0,3.0
-28,Artichoke Basille's Pizza,4.3,"111 Macdougal Street, New York",2.0,
-31,Gyu-Kaku Japanese BBQ,4.4,"805 3rd Avenue #2, New York",2.0,
-32,Doughnut Plant,4.5,"379 Grand Street, New York",2.0,
-33,Robert,4.5,"2 Columbus Circle, New York",3.0,
-34,Tamarind Tribeca,4.4,"99 Hudson Street, New York",3.0,3.0
-35,King's Plaza Shopping Center,4.2,"5100 Kings Plaza, Brooklyn",,
-38,American Girl Place New York,4.4,"75 Rockefeller Plaza, New York",2.0,2.0
-39,Gyu-Kaku Japanese BBQ,4.5,"34 Cooper Square, New York",2.0,
-40,Olive Garden Italian Restaurant,4.3,"500 New Jersey 3, Secaucus",2.0,
-41,Terroir Tribeca,4.4,"24 Harrison Street, New York",2.0,2.0
-42,Sweet Afton,4.4,"30-09 34th Street, Astoria",2.0,2.0
-43,Di Fara Pizza,4.3,"1424 Avenue J, Brooklyn",2.0,2.0
-44,Hide-Chan,4.3,"248 East 52nd Street Fl 2, New York",1.0,1.0
-45,LuAnne's Wild Ginger,4.5,"112 Smith Street, Brooklyn",2.0,2.0
-46,The River Café,4.4,"1 Water Street, Brooklyn",4.0,4.0
-48,Poco,4.1,"33 Avenue B, New York",2.0,
-50,Chart House,4.5,"Lincoln Harbor Pier D-T, Weehawken",3.0,
-51,The Standard Biergarten,4.1,"The Standard, High Line, 848 Washington Street, New York",2.0,2.0
-52,Piquant,4.1,"259 Flatbush Avenue, Brooklyn",2.0,
-53,Jazz Standard,4.6,"116 East 27th Street, New York",2.0,2.0
-54,Paulie Gee's,4.6,"60 Greenpoint Avenue, Brooklyn",2.0,
-55,Junoon,4.2,"27 West 24th Street, New York",3.0,
-59,Bareburger,4.3,"514 3rd Avenue, New York",2.0,
+,name,rating,address,price
+0,Sofitel New York,4.4,"45 West 44th Street, New York",$$$
+1,Loews Regency New York,4.4,"540 Park Avenue, New York",
+2,The Lowell Hotel,4.6,"28 East 63rd Street, at Madison Ave, New York",$$$
+3,The Mark Hotel,4.5,"25 East 77th Street, New York",
+4,Shake Shack,4.3,"366 Columbus Avenue, New York",$$
+5,ABC Kitchen,4.4,"35 East 18th Street, New York",$$$
+6,Maialino,4.4,"2 Lexington Avenue, New York",$$$
+7,Inn At Great Neck,4.2,"30 Cuttermill Road, Great Neck",
+8,Extra Virgin,4.2,"259 West 4th Street, New York",$$
+9,The Mermaid Inn,4.3,"96 2nd Avenue, New York",$$
+10,Connolly's Pub & Restaurant,4.3,"121 West 45th Street, New York",$$
+11,Lugo Cucina,4.2,"1 Pennsylvania Plaza, New York",$$
+12,Lucky Strike Manhattan,4.2,"624-660 West 42nd Street, New York",$$$
+13,Miss Lily's,4.2,"132 West Houston Street, New York",$$
+14,48 Lounge,4.3,"1221 AVENUE OF THE AMERICAS, West 48th Street, New York",$$$
+15,Casa Mezcal,4.3,"86 Orchard Street, New York",$$
+16,Brooklyn Diner USA,4.1,"212 West 57th Street, New York",$$$
+17,Artichoke Basille's Pizza,4.3,"111 Macdougal Street, New York",$$
+18,Gyu-Kaku Japanese BBQ,4.4,"805 3rd Avenue #2, New York",$$
+19,Doughnut Plant,4.5,"379 Grand Street, New York",$$
+20,Robert,4.5,"2 Columbus Circle, New York",$$$
+21,Tamarind Tribeca,4.4,"99 Hudson Street, New York",$$$
+22,King's Plaza Shopping Center,4.2,"5100 Kings Plaza, Brooklyn",
+23,American Girl Place New York,4.4,"75 Rockefeller Plaza, New York",$$
+24,Gyu-Kaku Japanese BBQ,4.5,"34 Cooper Square, New York",$$
+25,Olive Garden Italian Restaurant,4.3,"500 New Jersey 3, Secaucus",$$
+26,Terroir Tribeca,4.4,"24 Harrison Street, New York",$$
+27,Sweet Afton,4.4,"30-09 34th Street, Astoria",$$
+28,Di Fara Pizza,4.3,"1424 Avenue J, Brooklyn",$$
+29,Hide-Chan,4.3,"248 East 52nd Street Fl 2, New York",$
+30,LuAnne's Wild Ginger,4.5,"112 Smith Street, Brooklyn",$$
+31,The River Café,4.4,"1 Water Street, Brooklyn",4.0
+32,Poco,4.1,"33 Avenue B, New York",$$
+33,Chart House,4.5,"Lincoln Harbor Pier D-T, Weehawken",$$$
+34,The Standard Biergarten,4.1,"The Standard, High Line, 848 Washington Street, New York",$$
+35,Piquant,4.1,"259 Flatbush Avenue, Brooklyn",$$
+36,Jazz Standard,4.6,"116 East 27th Street, New York",$$
+37,Paulie Gee's,4.6,"60 Greenpoint Avenue, Brooklyn",$$
+38,Junoon,4.2,"27 West 24th Street, New York",$$$
+39,Bareburger,4.3,"514 3rd Avenue, New York",$$
