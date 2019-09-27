@@ -1,6 +1,16 @@
-Background
-When traveling to a new city, you want to plan your restaurant reservations.  However, there are many sources to choose from; restaurant critics to restaurant goers.  This database will consolidate from several sources to create a more complete picture of restaurants for a more balanced, definitive view.  
+This is a 3-people team project.  
+We divided and assigned the work primarily based on data sources as follows: 
+- Google - Haneul via Google API 
+- Yelp - Winnie via Yelp API
+ -Zamato - Avis via web scraping 
 
+Background
+
+What problem we are trying to solve 
+When traveling to a new city, you want to plan your restaurant reservations.  However, there are many sources to choose from; restaurant critics to restaurant goers.  
+
+How we are solving it
+This database will consolidate from several sources to create a more complete picture of restaurants for a more balanced, definitive view.  
 Sources used
 Different review sites, attract different user profiles.  The objective for this exercise is to select from a wide variety as follows:
 Google reviews
